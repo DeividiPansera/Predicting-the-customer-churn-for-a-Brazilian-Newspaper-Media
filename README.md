@@ -102,7 +102,7 @@ The datasets to be used in the project were provided by GP and contains browsing
 - **has_print**: if the user has a printed version of the newspaper;
 - **Churn**: the output variable; if the user practiced the Churn or not (target variable).
 
-The dataset contains $62581$ data points, where $1371$ data points for the class of people who did practice the churn and $61210$ who didn't and it is divided in three files:
+The dataset contains 62581 data points, where 1371 data points for the class of people who did practice the churn and 61210 who didn't and it is divided in three files:
 
 - 'subscriberscomplete06.csv' -- It contains all the payed subscribers that, at the end of June, did not cease to be a payed subscriber; 
 - 'canceledsubscriberscomplete06.csv' -- It contains all the payed subscribers that, at the end of June, ceased to be a subscriber;
